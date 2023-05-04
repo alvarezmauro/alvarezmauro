@@ -106,14 +106,11 @@ I'm well-organized, able to work well with minimal supervision. I can handle mul
 <!-- Streak Stats: https://github.com/alvarezmauro/github-readme-streak-stats -->
 <div class="stats" align="center">
 
-![Mauro's GitHub Stats](https://github-readme-stats-flame-eight-43.vercel.app/api?username=alvarezmauro&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=alvarezmauro&count_private=true&theme=algolia&border_radius=20)
 
-<!-- compact programming languages layout -->
+![Mauro's GitHub Stats](https://github-readme-stats-flame-eight-43.vercel.app/api?username=alvarezmauro&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats-flame-eight-43.vercel.app/api/top-langs/?username=alvarezmauro&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-
+  
 </div>
 <!--  End Stats Cards -->
 
