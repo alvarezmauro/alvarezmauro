@@ -108,7 +108,7 @@ I'm well-organized, able to work well with minimal supervision. I can handle mul
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alvarezmauro&count_private=true&theme=algolia&border_radius=20)
 
-![Mauro's GitHub Stats](https://github-readme-stats-flame-eight-43.vercel.app/api?username=alvarezmauro&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Mauro's GitHub Stats](https://github-readme-stats-alvarezmauro.vercel.app/api?username=alvarezmauro&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
   
 </div>
