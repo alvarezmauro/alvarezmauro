@@ -5,7 +5,6 @@
 <br>
 <br>
 I'm passionate about building digital products that scale. My background includes strong knowledge of front-end development (HTML5, CSS, JavaScript, ReactJs), back-end development using Node.js and mobile development using React Native.
-<br>
 </p>    
 </div>
 <br>
