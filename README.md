@@ -6,9 +6,6 @@
 <br>
 I'm passionate about building digital products that scale. My background includes strong knowledge of front-end development (HTML5, CSS, JavaScript, ReactJs), back-end development using Node.js and mobile development using React Native.
 <br>
-<br>
-I'm well-organized, able to work well with minimal supervision. I can handle multiple projects and adapt to diverse teams/projects.
-<br>
 </p>    
 </div>
 <br>
