@@ -119,7 +119,7 @@ I'm passionate about building digital products that scale. My background include
     <a href="https://twitter.com/morklash" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="25px"/>
     </a>
-    <a href="mailto:conatct@mauroalvarez.com" target="_blank">
+    <a href="mailto:contact@mauroalvarez.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="./assets/mail.png" alt="gmail" width="25px"/>
     </a>
 </div>
