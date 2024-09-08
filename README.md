@@ -43,7 +43,7 @@ I'm passionate about building digital products that scale. My background include
       <img  alt="Emotion" height="50px" src="./assets/emotion.png"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tailwind" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+      <img  alt="Tailwind" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
